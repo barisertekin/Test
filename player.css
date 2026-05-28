@@ -1,4 +1,7 @@
-.player-controls-top,
-.fullscreen-action-menu {
+embedded-player-video-details,
+.player-settings-icon,
+.action-menu-engagement-buttons-wrapper,
+.fullscreen-watch-next-entrypoint-wrapper,
+{
 	display: none !important;
 }
