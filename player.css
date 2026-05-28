@@ -1,3 +1,4 @@
-.player-controls-top, .fullscreen-action-menu, .player-controls-middle{
+.player-controls-top,
+.fullscreen-action-menu {
 	display: none !important;
 }
