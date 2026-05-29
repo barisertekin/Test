@@ -15,8 +15,10 @@ volume-controls,
 
 .fullscreen-controls-always-on .watch-page-progress-bar {
     bottom: 0px !important;
+	background-color: blue !important;
 }
 
 .fullscreen-controls-always-on .player-controls-bottom {
     bottom: 30px !important;
+	background-color: red !important;
 }
