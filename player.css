@@ -19,5 +19,10 @@ volume-controls,
 }
 
 .fullscreen-controls-always-on .player-controls-bottom {
-    bottom: 25px !important;
+    bottom: 15px !important;
+}
+
+.fullscreen-action-menu {
+    height: 0px !important;
+    z-index: -99 !important;
 }
