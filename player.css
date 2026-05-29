@@ -6,3 +6,17 @@ volume-controls,
 {
 	display: none !important;
 }
+
+.watch-on-youtube-button-wrapper {
+    position: fixed !important;
+    top: 0px !important;
+    left: -17px !important;
+}
+
+.fullscreen-controls-always-on .watch-page-progress-bar {
+    bottom: 0px !important;
+}
+
+.fullscreen-controls-always-on .player-controls-bottom {
+    bottom: 30px !important;
+}
