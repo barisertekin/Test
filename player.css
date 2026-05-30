@@ -8,26 +8,36 @@ volume-controls,
 	display: none !important;
 }
 
+/* youtube logo */
 .watch-on-youtube-button-wrapper {
     position: fixed !important;
     top: 10px !important;
     left: -7px !important;
 }
 
+/* sağ üst köledeki butonlar */
 .player-controls-top{
 	top: 10px !important;
 }
 
+/* timeline */
 .watch-page-progress-bar {
     bottom: 10px !important;
 	height: 20px !important;
 }
 
+/* timeline üsütndeki dakika bilgisi ve fullscreen butonu */
 .player-controls-bottom {
     bottom: 25px !important;
 }
 
+/* timeline'ın üstüne binen bir div. gizliyip kurutuluyoruz. */
 .fullscreen-action-menu {
     height: 0px !important;
     z-index: -99 !important;
+}
+
+/* orta kısımda play hariç diğer butonları gizle */
+.player-controls-middle-core-buttons > button {
+    display: none !important;
 }
