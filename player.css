@@ -10,17 +10,21 @@ volume-controls,
 
 .watch-on-youtube-button-wrapper {
     position: fixed !important;
-    top: 0px !important;
-    left: -17px !important;
+    top: 10px !important;
+    left: -7px !important;
 }
 
-.fullscreen-controls-always-on .watch-page-progress-bar {
-    bottom: 0px !important;
+.player-controls-top{
+	top: 10px !important;
+}
+
+.watch-page-progress-bar {
+    bottom: 10px !important;
 	height: 20px !important;
 }
 
-.fullscreen-controls-always-on .player-controls-bottom {
-    bottom: 15px !important;
+.player-controls-bottom {
+    bottom: 25px !important;
 }
 
 .fullscreen-action-menu {
