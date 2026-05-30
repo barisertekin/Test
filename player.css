@@ -2,7 +2,8 @@
 yt-closed-captions-toggle-button,
 volume-controls,
 .action-menu-engagement-buttons-wrapper,
-.fullscreen-watch-next-entrypoint-wrapper
+.fullscreen-watch-next-entrypoint-wrapper,
+.ytwPlayerMiddleControlsA11ySeekButton
 {
 	display: none !important;
 }
